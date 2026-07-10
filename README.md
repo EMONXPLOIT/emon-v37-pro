@@ -34,11 +34,3 @@ pip install -r requirements.txt
 # Run the trading signal engine
 python emon_khan.py
 
-
-─ ⚠️ IMPORTANT DISCLAIMER
-​This tool is for educational and analytical purposes only. Trading involves risk. Never trade in OTC markets. Always verify signals with your own market analysis before executing any trade.
-​<p align="center">
-<b>Engineered by Emon RootX</b>
-
-<i>"Don't trade the market; trade the logic."</i>
-</p>
